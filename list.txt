@@ -1,0 +1,10 @@
+||v.wpimg.pl/*$image
+||facebook.com
+twitch.tv##.prime-offers
+twitch.tv##.extensions-dock__layout
+ext-twitch.tv##.prime-extension-root
+
+! 2021-07-15 https://www.medonet.pl
+www.medonet.pl###medonet__healthcare__messages
+www.medonet.pl##.medonet__healthcare__content
+www.medonet.pl##.medonet__healthcare_content_animation
