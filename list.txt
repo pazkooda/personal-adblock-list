@@ -1,5 +1,6 @@
 ||v.wpimg.pl/*$image
 ||facebook.com
+||functionalclam.com^$third-party
 twitch.tv##.prime-offers
 twitch.tv##.extensions-dock__layout
 ext-twitch.tv##.prime-extension-root
