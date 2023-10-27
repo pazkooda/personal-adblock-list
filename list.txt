@@ -1,4 +1,3 @@
-||v.wpimg.pl/*$image
 ||facebook.com
 ||functionalclam.com^$third-party
 twitch.tv##.prime-offers
