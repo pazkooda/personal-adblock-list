@@ -10,5 +10,6 @@ www.medonet.pl##.medonet__healthcare_content_animation
 
 wiadomosci.onet.pl##.headerBar
 wiadomosci.onet.pl##.statementBox
+onet.pl##div[class^="Emotions"]
 
 ||accounts.google.com/gsi/iframe/select?client_id=$subdocument
