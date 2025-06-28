@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: My Personal Adblock Filters
+
 ||facebook.com
 ||functionalclam.com^$third-party
 twitch.tv##.prime-offers
